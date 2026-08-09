@@ -1,1 +1,0 @@
-This is a championship organizer for Gran Turismo to be used with the custom race feature. This can be used with other games, but I have not tested it. It includes AI features who speak with you between races.
